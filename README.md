@@ -51,7 +51,7 @@ streamlit run app.py
 
 ![Screenshot from 2025-06-13 06-23-56](https://github.com/user-attachments/assets/0702746e-9511-4991-840a-e17f47ec970e)
 
-## 🤝 Contributing
+## Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change or improve.
 If you found this helpful, give it a ⭐ on GitHub!
