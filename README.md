@@ -1,5 +1,5 @@
 # AskTheDoc: AI-Powered PDF Assistant
-
+![image](https://github.com/user-attachments/assets/d8d5eb0b-800e-4882-b8bf-0616eed8498b)
 AskTheDoc is a powerful AI assistant that lets users chat with one or more PDF documents via a Streamlit web interface or CLI. It uses LangChain's RAG (Retrieval-Augmented Generation) pipeline with OpenAI LLMs, FAISS vector search, and chunked document embeddings to deliver accurate, source-backed answers.
 
 ## Features
@@ -49,14 +49,7 @@ streamlit run app.py
 - Ask questions and see source-backed answers.
 - View stats, reset session, and export chat logs.
 
-## Folder Structure
-
-```
-.
-├── app.py
-├── requirments.txt
-└── README.md
-```
+![Screenshot from 2025-06-13 06-23-56](https://github.com/user-attachments/assets/0702746e-9511-4991-840a-e17f47ec970e)
 
 ## 🤝 Contributing
 
